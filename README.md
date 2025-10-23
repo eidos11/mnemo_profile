@@ -26,6 +26,9 @@ profiles
 4.2:1. https://github.com/eidos11/mnemo_profile/blob/main/4.2.1.(eng)Again%20Autumn%2C%20Another%20Sunset%2C%20Here%20the%20Stars.md
 
 4.3 : https://github.com/eidos11/mnemo_profile/blob/main/4.2.%EB%8B%A4%EC%8B%9C%20%EA%B0%80%EC%9D%84%20%EB%98%90%20%EB%85%B8%EC%9D%84%20%EC%97%AC%EA%B8%B0%20%EB%B3%84.md
+
 4.3.1: https://github.com/eidos11/mnemo_profile/blob/main/4.3.1.(eng)The%20Left-Handed%20Novelist.md
+
 4.3: https://github.com/eidos11/mnemo_profile/blob/main/4.3.%EC%99%BC%EC%86%90%EC%9E%A1%EC%9D%B4%20%EC%86%8C%EC%84%A4%EA%B0%80.md
+
 4.4: https://github.com/eidos11/mnemo_profile/blob/main/4.4.%EC%9A%B0%EC%97%B0%ED%9E%88%20%EA%B3%A0%ED%96%A5%EC%97%90%20%EC%9E%A0%EB%93%A4%EB%8B%A4.md
